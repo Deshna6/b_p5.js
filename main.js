@@ -22,4 +22,8 @@ function draw(){
 
 }
 
+function take_snapshot(){
+    save('student_name.png');
+}
+
 
